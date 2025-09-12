@@ -46,6 +46,7 @@ html{
 .nome {
     text-decoration-line: none;
     color: white;
+    font-size: 26px;
 }
 
 .nav1 {
@@ -350,4 +351,5 @@ html{
 }
 .descdep{
     text-align: center;
+
 }
