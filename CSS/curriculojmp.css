@@ -228,6 +228,7 @@ html{
 
     margin-left: 20px;
     margin-bottom: 20px;
+    margin-top: 40px;
     display: flex;
     flex-direction: column;
     gap: 35px;
@@ -353,3 +354,4 @@ html{
     text-align: center;
 
 }
+
