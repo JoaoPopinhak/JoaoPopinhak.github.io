@@ -9,6 +9,9 @@ html{
 .body {
     width: 100%;
 }
+p{
+    text-align:justify;
+}
 
 .cabprofile {
     background-color: rgb(0, 3, 20);
@@ -354,6 +357,7 @@ html{
     text-align: center;
 
 }
+
 
 
 
