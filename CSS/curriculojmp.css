@@ -405,6 +405,10 @@ html {
         font-family: "Inter", sans-serif;
     }
 
+    .imagem{
+        display: none;
+    }
+
     .conteudosobre {
         gap: 0px;
     }
