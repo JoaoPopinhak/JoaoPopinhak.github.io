@@ -206,6 +206,8 @@ ul {
     display: flex;
     flex-direction: column;
     text-align: justify;
+    word-spacing: 0;        
+    letter-spacing: 0;
     hyphens: auto;
     gap: 40px;
 
@@ -472,5 +474,6 @@ ul {
     .conteudodep {
         gap: 100px;
     }
+
 
 }
