@@ -421,6 +421,13 @@ ul {
         gap: 0px;
     }
 
+    .conteudosobre h3 {
+        text-align: left;
+        word-spacing: 1px;
+        letter-spacing: 0;
+        hyphens: none;
+    }
+
     .imagem {
         height: 0vw;
     }
@@ -465,6 +472,5 @@ ul {
     .conteudodep {
         gap: 100px;
     }
-
 
 }
