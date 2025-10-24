@@ -207,6 +207,8 @@ ul {
     flex-direction: column;
     text-align: justify;
     hyphens: auto;
+    word-spacing: 2px;
+    letter-spacing: 0.2px;
     gap: 40px;
 
 }
@@ -280,6 +282,8 @@ ul {
     border-radius: 2ch;
     text-align: justify;
     hyphens: auto;
+    word-spacing: 2px;
+    letter-spacing: 0.2px;
 }
 
 .linksiteinst {
