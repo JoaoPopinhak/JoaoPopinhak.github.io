@@ -207,8 +207,6 @@ ul {
     flex-direction: column;
     text-align: justify;
     hyphens: auto;
-    word-spacing: 2px;
-    letter-spacing: 0.2px;
     gap: 40px;
 
 }
@@ -282,8 +280,6 @@ ul {
     border-radius: 2ch;
     text-align: justify;
     hyphens: auto;
-    word-spacing: 2px;
-    letter-spacing: 0.2px;
 }
 
 .linksiteinst {
@@ -422,6 +418,10 @@ ul {
     }
 
     .conteudosobre {
+        text-align: left;
+        word-spacing: 1px;
+        letter-spacing: 0;
+        hyphens: none;
         gap: 0px;
     }
 
@@ -441,6 +441,13 @@ ul {
     .escolaridade {
         width: 100%;
         margin-left: 0px;
+    }
+
+    .descriçãoexp {
+        text-align: left;
+        word-spacing: 1px;
+        letter-spacing: 0;
+        hyphens: none;
     }
 
     .conteudohab {
