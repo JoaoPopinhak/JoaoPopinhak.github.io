@@ -418,10 +418,6 @@ ul {
     }
 
     .conteudosobre {
-        text-align: left;
-        word-spacing: 1px;
-        letter-spacing: 0;
-        hyphens: none;
         gap: 0px;
     }
 
@@ -469,5 +465,6 @@ ul {
     .conteudodep {
         gap: 100px;
     }
+
 
 }
