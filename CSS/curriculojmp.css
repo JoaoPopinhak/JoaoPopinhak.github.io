@@ -307,15 +307,14 @@ ul {
 }
 
 .conteudohab {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 15px;
+   display: flex;
+   flex-wrap: wrap;  
 }
 
 .descriçãohabi {
-    padding: 15px;
     display: flex;
-    width: 300px;
+    width: 317px;
+    height: 240px;
 }
 
 .containerdeschabi {
